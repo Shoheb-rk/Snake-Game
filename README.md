@@ -4,6 +4,10 @@ A classic console-based Snake Game built using **C++**, featuring real-time keyb
 
 This project demonstrates core C++ programming concepts and Object-Oriented Programming (OOP) through an interactive game with a menu system, dynamic snake movement, random food generation, and replay functionality.
 
+## 📸 Gameplay
+
+![Snake Game Gameplay](assets/snake-game.png)
+
 ## ✨ Features
 
 - **Interactive Menu:** Start a game, return to the main menu, or quit.
