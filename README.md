@@ -125,6 +125,7 @@ Snake-Game/
 ## 👨‍💻 Author
 
 **Shoheb Khanadal**
+**Divyesh Sharma**
 
 - GitHub: [@Shoheb-rk](https://github.com/Shoheb-rk)
 
