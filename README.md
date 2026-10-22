@@ -122,10 +122,10 @@ Snake-Game/
 - Introduce graphical rendering using a multimedia library.
 - Add unit tests and improve code organization.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-**Shoheb Khanadal**
-**Divyesh Sharma**
+- **Shoheb Khanadal**
+- **Divyesh Sharma**
 
 - GitHub: [@Shoheb-rk](https://github.com/Shoheb-rk)
 
